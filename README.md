@@ -1,6 +1,12 @@
-## Hi there 👋
+## Unity C# Developer 👋
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-7F7F7F?style=flat&logo=substance-painter&logoColor=white)  
+
+### 📬 Contact me:
+- [Telegram](https://t.me/ruka_v_rot)  
+- [Email](mailto:mathertgl@gmail.com)
 <!--
 **MatherTGL/MatherTGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
