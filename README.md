@@ -13,7 +13,7 @@
 - [**Laptop Simulator Tycoon**](https://github.com/MatherTGL/LaptopTycoon_Scripts) - My first solo big project
 
 ![GitHub Commits Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatherTGL&theme=radical)
-![Repos Map](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatherTGL&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatherTGL)
 
 
 <!--
