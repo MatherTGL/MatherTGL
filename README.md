@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 <!--
 **MatherTGL/MatherTGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
