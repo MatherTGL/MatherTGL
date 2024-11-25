@@ -13,6 +13,8 @@
 - [**Laptop Simulator Tycoon**](https://github.com/MatherTGL/LaptopTycoon_Scripts) - My first solo big project
 
 ![GitHub Commits Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatherTGL&theme=radical)
+![Repos Map](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatherTGL&theme=radical)
+
 
 <!--
 **MatherTGL/MatherTGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
