@@ -12,9 +12,6 @@
 - [**Bootstrap Tool**](https://github.com/MatherTGL/Bootstrap-Tool-Unity) - My tool for simple projects
 - [**Laptop Simulator Tycoon**](https://github.com/MatherTGL/LaptopTycoon_Scripts) - My first solo big project
 
-![GitHub Commits Activity](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatherTGL&theme=radical)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatherTGL)
-
 
 <!--
 **MatherTGL/MatherTGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
