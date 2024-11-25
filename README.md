@@ -8,7 +8,9 @@
 - [Email](mailto:mathertgl@gmail.com)
 
 ### 🚀 My projects:
-- [**Economic Simulator**](https://github.com/MatherTGL/economic-simulator)
+- [**Economic Simulator**](https://github.com/MatherTGL/economic-simulator) - My home project
+- [**Bootstrap Tool**](https://github.com/MatherTGL/Bootstrap-Tool-Unity) - My tool for simple projects
+- [**Laptop Simulator Tycoon**](https://github.com/MatherTGL/LaptopTycoon_Scripts) - My first solo big project
 <!--
 **MatherTGL/MatherTGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
