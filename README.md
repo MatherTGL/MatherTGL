@@ -6,7 +6,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
 
 ## ⭐ About me:
-I am engaged in the development of **mobile** and **web** games, and previously I have been developing games on PC since 2019. I mainly work on the backend. At the moment, we are working on two Telegram games.
+I am engaged in the development of **mobile** and **web** games, and previously I have been developing games on PC since 2019. I mainly work on the backend. At the moment, we are working on two Telegram games. Sometimes I take freelance projects.
 
 ## 📬 Contact me:
 - [Telegram](https://t.me/ruka_v_rot)  
