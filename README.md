@@ -13,7 +13,7 @@ I am engaged in the development of **mobile** and **web** games, and previously 
 - [Email](mailto:mathertgl@gmail.com)
 
 ## 🚀 My projects:
-- [**Economic Simulator**](https://github.com/MatherTGL/Mexico-Tycoon-Last) - My home project
+- [**Economic Simulator**](https://github.com/MatherTGL/Mexico-Tycoon-Last) - My pet project
 - [**2D Drag Racing for Yandex**](https://github.com/MatherTGL/DragRacing2D) - Freelance project
 - [**Laptop Simulator Tycoon**](https://github.com/MatherTGL/LaptopTycoon_Scripts) - My first solo big project
 - [**Telegram Game**](https://github.com/MatherTGL/BlumProject) - Current project in development. **My most recent code.**
