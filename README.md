@@ -6,7 +6,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
 
 ## ⭐ About me:
-I am engaged in the development of **mobile** and **web** games, and previously I have been developing games on PC since 2019. At the moment, we are working on two Telegram games. Sometimes I take freelance projects.
+I've been a **mobile** and **web** game developer since 2022 and I've been developing PC games since 2019. At the moment, we are working on two games on Telegram and one for Yandex Games. **I also make projects to order**.
 
 ## 📬 Contact me:
 - [Telegram](https://t.me/ruka_v_rot)  
