@@ -6,7 +6,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
 
 ## ⭐ About me:
-I've been a **mobile** and **web** game developer since 2022 and I've been developing PC games since 2019. **I also make projects to order**. In addition, I have experience in modeling and texturing.
+I've been a Unity developer since 2019. I do mobile, pc and web projects. I have experience in 3D modeling and texturing (Blender + Substance). I actively take projects to order, which I implement on time.
 
 ## 📬 Contact me:
 - [Telegram](https://t.me/ruka_v_rot)  
